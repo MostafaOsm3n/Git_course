@@ -1,2 +1,2 @@
 # Git_course
-learning git
+learning git from elzero 
